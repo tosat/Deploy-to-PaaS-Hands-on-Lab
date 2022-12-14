@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'tosatestcw1207'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1811B2465AFB4234A3BEA5BF831FE394 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_158372DB3FB2406982C62DD9435F0133 }}
           package: .
